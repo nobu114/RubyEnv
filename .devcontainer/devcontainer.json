@@ -24,7 +24,10 @@
 				"formulahendry.code-runner",
 				"castwide.solargraph",
 				"kaiwood.endwise"
-			]
+			],
+            "settings": {
+                "code-runner.runInTerminal": true
+            }
 		}
 	},
 	
